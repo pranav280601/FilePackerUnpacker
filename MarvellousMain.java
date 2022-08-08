@@ -602,7 +602,7 @@ class MarvellousPacker
 {
  FileOutputStream outstream = null;
 
-String ValidExt[] = {".txt",".c",".java",".cpp"};
+String ValidExt[] = {".txt"};
 
  public MarvellousPacker(String src, String Dest) throws Exception
  {
